@@ -1,2 +1,3 @@
-# Kabbadi-Game
-Assignment project as part of Teachers training program
+# Kabaddi
+
+Simple multi-player kabaddi game !!
